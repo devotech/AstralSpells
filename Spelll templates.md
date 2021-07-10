@@ -1,3 +1,17 @@
+// These are all a work in progress.
+
+# Form fillable spell templates
+
+## Usable 
+
+### Cantrips (attack)
+
+### Cantrips (save)
+
+### Cantrips (utility)
+
+
+## Snippets
 *school cantrip*
 *nth-level school*
 
